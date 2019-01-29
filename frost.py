@@ -23,4 +23,4 @@ async def on_message(message):
 
 print('Starting...')
 requests.post('https://cleverbot.io/1.0/create', json={'user':user, 'key':key, 'nick':'frost'})
-client.run('DISCORD_BOT_TOKEN')
+client.run('NTM5NzIzMzU2NjA2NTYyMzA0.DzGgkA.4RvxGwopaeA4WmsDqxfLbmIc_vM')
